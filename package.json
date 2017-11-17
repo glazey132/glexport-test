@@ -1,0 +1,23 @@
+{
+  "name": "glexport-test-takehome",
+  "version": "1.0.0",
+  "description": "take-home",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glazey132/glexport-test-takehome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glazey132/glexport-test-takehome/issues"
+  },
+  "homepage": "https://github.com/glazey132/glexport-test-takehome#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "pg": "^7.4.0"
+  }
+}
